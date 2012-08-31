@@ -19,14 +19,14 @@ The refresh rate for can be between 1 to 5 seconds.
 Screenshots
 -----------
 
-Playing
+Currently playing
 
-
+![Currently Playing](http://broolstory.co/img/snpPlaying.png)
 
 Paused
 
-
+![Paused](http://broolstory.co/img/snpPaused.png)
 
 Spotify is closed
 
-
+![Closed](http://broolstory.co/img/snpClosed.png)
